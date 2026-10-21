@@ -5,7 +5,7 @@ import tarfile
 
 ROOT = Path(__file__).resolve().parent
 FILES = ['bot.py', 'configure.py', 'requirements.txt', 'wg-telegram.service',
-         'install.sh', '.env.example', '.gitignore', 'README.md', 'build.py',
+         'install.sh', '.env.example', '.gitignore', 'README.md', 'README.en.md', 'README.fr.md', 'build.py',
          'tests/test_bot.py', '.github/workflows/check.yml']
 
 
